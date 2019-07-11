@@ -1,4 +1,4 @@
-package lamda_train;
+package lambda_train;
 
 import java.util.function.Consumer;
 import java.util.function.Function;
@@ -12,7 +12,7 @@ import java.util.function.Supplier;
  */
 
 /**
- * Lamda: 返回指定接口的实例对象
+ * Lambda: 返回指定接口的实例对象
  */
 
 class Dog{
